@@ -1,0 +1,10 @@
+{
+  "name": "bleno_test2",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "dependencies": {
+    "bleno": "github:notjosh/bleno#inject-bindings",
+    "xpc-connection": "github:sandeepmistry/node-xpc-connection#pull/26/head"
+  }
+}
